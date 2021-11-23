@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhgaJqOvNqditeXVN5EWowEs9r2Lj4hcRgEe3FfaeQEtR0r1kHj7UirqCOcVlA1WNRNr441/lvf8GkvdqFU8QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricar\\Source\\Repos\\projetoxamarin\\Projeto.StartupOne.IHistory\\Projeto.StartupOne.IHistory.iOS\\Projeto.StartupOne.IHistory.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
